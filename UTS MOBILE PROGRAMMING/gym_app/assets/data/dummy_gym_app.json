@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Chest",
+    "imagePath": "assets/images/chest.png",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "imagePath": "assets/images/barbell_bench_press.png",
+        "info": "Press Info",
+        "description": "The exercise that involves the use of a barbell (iron bar) is typically performed on a flat bench.",
+        "targetMuscles": "Chest, Triceps, Shoulders",
+        "preparation": "1. Prepare the bench and load the barbell.\n2. Lie flat on the bench with your feet on the floor.\n3. Grip the barbell and lift it from the neck."
+      },
+      {
+        "name": "Incline Barbell Bench Press",
+        "imagePath": "assets/images/incline_barbell_bench_press.png",
+        "info": "Press Info",
+        "description": "Similar to the flat bench press, but performed on an incline bench to target the upper chest muscles.",
+        "targetMuscles": "Upper Chest, Triceps, Shoulders",
+        "preparation": "1. Set the bench to a 30-45 degree incline.\n2. Lie back and grip the barbell slightly wider than shoulder-width.\n3. Lift the bar and lower it slowly to your upper chest."
+      }
+    ]
+  },
+  {
+    "name": "Back",
+    "imagePath": "assets/images/back.png",
+    "exercises": [
+      {
+        "name": "Pull Ups",
+        "imagePath": "assets/images/ex_pull_up.png",
+        "info": "Bodyweight Info",
+        "description": "A compound upper-body exercise that targets the back muscles, particularly the latissimus dorsi.",
+        "targetMuscles": "Lats, Biceps, Shoulders",
+        "preparation": "1. Grab the pull-up bar with an overhand grip.\n2. Hang with your arms fully extended.\n3. Pull your body up until your chin is over the bar."
+      }
+    ]
+  },
+  {
+    "name": "Shoulders",
+    "imagePath": "assets/images/shoulders.png",
+    "exercises": []
+  },
+  {
+    "name": "Biceps",
+    "imagePath": "assets/images/biceps.png",
+    "exercises": []
+  }
+]
