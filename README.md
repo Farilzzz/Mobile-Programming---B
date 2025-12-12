@@ -49,11 +49,11 @@
 
 | Login & Register | Home & Leveling | Exercise List |
 |:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/list.png" width="200"/> |
+| <img src="screenshots/login.jpeg" width="200"/> | <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/list.jpeg" width="200"/> |
 
 | Detail & Search | Workout Log (CRUD) | Profile & Edit |
 |:---:|:---:|:---:|
-| <img src="screenshots/detail.png" width="200"/> | <img src="screenshots/log.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> |
+| <img src="screenshots/detail.jpeg" width="200"/> | <img src="screenshots/log.jpeg" width="200"/> | <img src="screenshots/profile.jpeg" width="200"/> |
 
 *(Note: Replace `screenshots/filename.png` with your actual image paths)*
 
